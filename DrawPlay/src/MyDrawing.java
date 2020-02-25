@@ -18,6 +18,7 @@ public class MyDrawing extends JPanel {
 	public void paintComponent(Graphics g) {
 		cat.draw(g, 50, 50);
 		mouse.draw(g,  150, 150);
+		mouse.draw(g,200,240);
 	}
 	
 	/**
