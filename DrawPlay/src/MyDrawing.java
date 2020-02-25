@@ -6,6 +6,7 @@ import javax.swing.JPanel;
 
 public class MyDrawing extends JPanel {
 	private Cat cat;
+	
 	public MyDrawing() 
 	{
 		// Add critters to the drawing
